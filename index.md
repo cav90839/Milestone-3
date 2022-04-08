@@ -85,11 +85,15 @@ _Figma User Story 2: Scooter App_
 
 **Resources:**
 
-https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241
-https://www.avail.co/education/resources/the-landlords-ultimate-guide-to-rental-applications
-https://actionfigure.ai/blog/a-scooter-revolution-why-universities-should-embrace-shared-mobility-programs-parking-sustainable-commuting-options/#:~:text=Scooters%20provide%20a%20reliable%20and,money%20of%20cars%20and%20parking.
-https://www.nngroup.com/articles/contact-us-pages/
-https://www.nngroup.com/articles/about-us-information-on-websites/
+-https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241
+
+-https://www.avail.co/education/resources/the-landlords-ultimate-guide-to-rental-applications
+
+-https://actionfigure.ai/blog/a-scooter-revolution-why-universities-should-embrace-shared-mobility-programs-parking-sustainable-commuting--options/#:~:text=Scooters%20provide%20a%20reliable%20and,money%20of%20cars%20and%20parking.
+
+-https://www.nngroup.com/articles/contact-us-pages/
+
+-https://www.nngroup.com/articles/about-us-information-on-websites/
 
 _Figma User Story 3: Map App_
 [Maps App](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
