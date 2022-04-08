@@ -50,6 +50,16 @@ Universities could provide alternate ways to travel for students. We designed an
 
 [UGA Rent Scooter](https://www.figma.com/file/7liiGLFxKE5v4NMKmHUMf8/UGA-Rent-Scooter?node-id=57%3A2)
 
+**Resources:**
+
+https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241
+
+https://www.avail.co/education/resources/the-landlords-ultimate-guide-to-rental-applications
+
+https://www.nngroup.com/articles/contact-us-pages/
+
+https://www.nngroup.com/articles/about-us-information-on-websites/
+
 **Idea B.** 
 A taxi system is similar to uber which is free for students attending their respective universities. Students will go on the app and request a ride like the uber app. For our low fidelity, we used UGA as an example university for how the app would be designed. 
 
