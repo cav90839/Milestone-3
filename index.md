@@ -43,6 +43,8 @@ Make an option for students to type in or select the desired commute time betwee
 
 ![Image](https://cdn.discordapp.com/attachments/935289341675204611/961405394666811412/IMG_6818.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 _User Story:_ As a college student, I want to make a schedule where I don't have to take the bus because the bus system is unreliable.
 
 **Idea A.** 
@@ -75,7 +77,7 @@ https://ieeexplore.ieee.org/abstract/document/8057231?casa_token=KMGanH78vYcAAAA
 
 https://bootcamp.uxdesign.cc/interactive-map-usage-in-ubers-ui-user-emotion-flow-84648ab09940
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _User Story:_ Make a mapping system in the registration app.
 
