@@ -63,6 +63,17 @@ https://www.nngroup.com/articles/about-us-information-on-websites/
 **Idea B.** 
 A taxi system is similar to uber which is free for students attending their respective universities. Students will go on the app and request a ride like the uber app. For our low fidelity, we used UGA as an example university for how the app would be designed. 
 
+Resources:
+
+https://material.io/design/communication/confirmation-acknowledgement.html#acknowledgement
+
+https://help.lyft.com/hc/e/articles/115012922687-Cancellation-policy-for-passengers
+
+https://ieeexplore.ieee.org/abstract/document/8057231?casa_token=KMGanH78vYcAAAAA:_bzz6J3kNuXMQwhDv-xDu7q5cdwOZAM47xYzPigmPMoHnZfyj367W4A43l-NIAS7k_9muNMVTw
+
+https://bootcamp.uxdesign.cc/interactive-map-usage-in-ubers-ui-user-emotion-flow-84648ab09940
+
+
 [UGA Uber](https://www.figma.com/file/YF3qcMoAzAHUTGR7n6vsoE/UGA-Uber?node-id=111%3A16)
 
 _User Story:_ Make a mapping system in the registration app.
@@ -104,6 +115,10 @@ _Figma User Story 2: Scooter App_
 -https://www.nngroup.com/articles/contact-us-pages/
 
 -https://www.nngroup.com/articles/about-us-information-on-websites/
+
+-https://usa.streetsblog.org/2019/08/07/uberlyft-responsible-for-a-large-share-of-traffic/
+
+-https://www.tigertv.tv/news/safety-concerns-with-uber-cause-students-to-take-extra-measures/article_cc360034-9fb8-11ec-bd1e-530e4b3f740b.html
 
 _Figma User Story 3: Map App_
 [Maps App](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
