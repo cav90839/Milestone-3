@@ -37,8 +37,7 @@ Make an option for students to type in or select the desired commute time betwee
 
 ![Image](https://cdn.discordapp.com/attachments/935289341675204611/961405389625249832/IMG_6817.jpg)
 
-**Idea B.**  
-A warning shows if students can not get to the next class in between class times set by the university.
+**Idea B.**  A warning shows if students can not get to the next class in between class times set by the university.
 
 ![Image](https://cdn.discordapp.com/attachments/935289341675204611/961405394666811412/IMG_6818.jpg)
 
