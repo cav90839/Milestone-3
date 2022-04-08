@@ -26,7 +26,7 @@ EXAMPLE: As a type of user, I want some goal so that some reason.**
 
 **For each of the relevant user stories you identified and justified in (A), generate numerous ideas for alternative design solutions that could be used to tell that story, then pick and describe your top two or three ideas for that story.**
 
-![Image](https://cdn.discordapp.com/attachments/342064643273129984/962092287540723752/unknown.png)
+![Image](![image](https://user-images.githubusercontent.com/75345004/162535744-bcc4ffce-6e3d-4d64-ac52-1846cfec4f4f.png)
 
 **For each relevant user story, produce a low-fidelity wireframe for each top idea with enough artboards (i.e., frames, pages, screens, etc.) that a potential user might be able to provide useful feedback. Each wireframe should be presented in a way that viewers can see all artboards at once (e.g., an image with all the artboards or an embedded canvas) and individually (e.g., links to images of the individual artboards). Each wireframe should also include some justification for why some design decisions were made.**
 
