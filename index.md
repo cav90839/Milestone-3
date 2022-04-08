@@ -76,6 +76,17 @@ _Figma User Story 1: Commute Time Selection_
 
 _Figma User Story 2: Scooter App_
 [UGA Rent Scooter](https://www.figma.com/file/DXOwq6ILJPrYlds5oiwSXi/Rent-a-Scooter-MockUp?node-id=5%3A32)
+-We ultimately decided that renting a scooter or bike would be the most efficient solution to this user story because with a taxi service, students would still have to wait for a taxi. Moreover; there might no be available taxis when a student needs it. Although there were a lot of pros to a taxi service, there were also a lot of cons. We concluded that renting a micro mobile device would keep the users in control of their schedules better.
+-Since we would be connecting this prototype with the UGA log-in service, we decided the task bar in the low-fidelity wireframe would be irrelevant. It would be easier for students to log in through UGA because this would ensure that only UGA students can rent a scooter or bike. We also decided that a contact and About Us page would not be necessary because of the UGA log in connection. 
+-In our low-fidelity wireframe, we decided to separate the information on the bike/scooter and the rental process. We decided to change this and add all the information onto one page for simplicity. 
+-We decided a confirm page would be necessary so the user can be sure that their rented bike or scooter will be available.
+
+Resources:
+https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241
+https://www.avail.co/education/resources/the-landlords-ultimate-guide-to-rental-applications
+https://actionfigure.ai/blog/a-scooter-revolution-why-universities-should-embrace-shared-mobility-programs-parking-sustainable-commuting-options/#:~:text=Scooters%20provide%20a%20reliable%20and,money%20of%20cars%20and%20parking.
+https://www.nngroup.com/articles/contact-us-pages/
+https://www.nngroup.com/articles/about-us-information-on-websites/
 
 _Figma User Story 3: Map App_
 [Maps App](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
