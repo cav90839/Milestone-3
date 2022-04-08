@@ -47,12 +47,12 @@ _User Story:_ As a college student, I want to make a schedule where I don't have
 **Idea A.** 
 Universities could provide alternate ways to travel for students. We designed an app with UGA as an example university that allows students to rent a scooter or bike on campus to get from one class to another. 
 
-[Link](https://www.figma.com/file/7liiGLFxKE5v4NMKmHUMf8/UGA-Rent-Scooter?node-id=57%3A2)
+[UGA Rent Scooter](https://www.figma.com/file/7liiGLFxKE5v4NMKmHUMf8/UGA-Rent-Scooter?node-id=57%3A2)
 
 **Idea B.** 
 A taxi system is similar to uber which is free for students attending their respective universities. Students will go on the app and request a ride like the uber app. For our low fidelity, we used UGA as an example university for how the app would be designed. 
 
-[Link](https://www.figma.com/file/YF3qcMoAzAHUTGR7n6vsoE/UGA-Uber?node-id=111%3A16)
+[UGA Uber](https://www.figma.com/file/YF3qcMoAzAHUTGR7n6vsoE/UGA-Uber?node-id=111%3A16)
 
 _User Story:_ Make a mapping system in the registration app.
 
@@ -71,13 +71,13 @@ Add UGA maps on the poster boards around campus, showing every class building on
 **For each of the relevant user stories you identified and justified in (A), pick what you think is the best design alternative you wireframed in (B), then produce a higher fidelity mockup of the wireframe.**
 
 _Figma User Story 1: Commute Time Selection_
-[Link](https://www.figma.com/file/ZJIMQt7qPa4J7IyRbIdo1U/Commute-Time-Selection?node-id=0%3A1)
+[Commute Time](https://www.figma.com/file/ZJIMQt7qPa4J7IyRbIdo1U/Commute-Time-Selection?node-id=0%3A1)
 
 _Figma User Story 2: Scooter App_
-[Link](https://www.figma.com/file/7liiGLFxKE5v4NMKmHUMf8/UGA-Rent-Scooter?node-id=1%3A87)
+[UGA Rent Scooter](https://www.figma.com/file/7liiGLFxKE5v4NMKmHUMf8/UGA-Rent-Scooter?node-id=1%3A87)
 
 _Figma User Story 3: Map App_
-[Link](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
+[Maps App](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
 
 
 ###  D. Summary Video 
