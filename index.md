@@ -63,6 +63,8 @@ https://www.nngroup.com/articles/about-us-information-on-websites/
 **Idea B.** 
 A taxi system is similar to uber which is free for students attending their respective universities. Students will go on the app and request a ride like the uber app. For our low fidelity, we used UGA as an example university for how the app would be designed. 
 
+[UGA Uber](https://www.figma.com/file/YF3qcMoAzAHUTGR7n6vsoE/UGA-Uber?node-id=111%3A16)
+
 Resources:
 
 https://material.io/design/communication/confirmation-acknowledgement.html#acknowledgement
@@ -74,7 +76,6 @@ https://ieeexplore.ieee.org/abstract/document/8057231?casa_token=KMGanH78vYcAAAA
 https://bootcamp.uxdesign.cc/interactive-map-usage-in-ubers-ui-user-emotion-flow-84648ab09940
 
 
-[UGA Uber](https://www.figma.com/file/YF3qcMoAzAHUTGR7n6vsoE/UGA-Uber?node-id=111%3A16)
 
 _User Story:_ Make a mapping system in the registration app.
 
