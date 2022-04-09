@@ -98,6 +98,14 @@ Add UGA maps on the poster boards around campus, showing every class building on
 _Figma User Story 1: Commute Time Selection_
 [Commute Time](https://www.figma.com/file/ZJIMQt7qPa4J7IyRbIdo1U/Commute-Time-Selection?node-id=0%3A1)
 
+**Justification:**
+
+-On figma link
+
+**Resources:**
+
+-On figma link
+
 _Figma User Story 2: Scooter App_
 [UGA Rent Scooter](https://www.figma.com/file/DXOwq6ILJPrYlds5oiwSXi/Rent-a-Scooter-MockUp?node-id=5%3A32)
 
@@ -126,6 +134,13 @@ _Figma User Story 2: Scooter App_
 _Figma User Story 3: Map App_
 [Maps App](https://www.figma.com/file/up36YEI9FGoutpSoW54raK/Athena-(Maps)?node-id=0%3A1)
 
+**Justification:**
+
+On figma link
+
+**Resources:**
+
+On figma link
 
 ###  D. Summary Video 
 
