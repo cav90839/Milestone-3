@@ -1,5 +1,7 @@
 ## Milestone 3: Design Alternatives
 
+We proposed user experience requirements into three different user experiences. After analyzing the relevant cases, we made an ideation and preliminary design for each one. These preliminary designs are low fidelity wireframes on different ideas to solve each specific user story. Once we picked out the best ideas for each low-fidelity wireframe, we went into more detail on our designs and decided on what could be added or removed to improve the designs. We hope you enjoy.
+
 ###  A. User Experience Requirements
 
 **Decompose your proposed solution from Milestone 2 into related user stories. It is highly recommended that you organize your user stories into a hierarchy based on related activities and tasks.
@@ -129,3 +131,4 @@ _Figma User Story 3: Map App_
 
 ###  D. Summary Video 
 
+[Summary Video](https://youtu.be/4TPSc-qwvHU)
